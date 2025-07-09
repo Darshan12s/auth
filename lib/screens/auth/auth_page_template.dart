@@ -61,7 +61,6 @@ class AuthPageTemplate extends StatelessWidget {
                               maxWidth: 500, // Maximum width for larger screens
                             ),
                             margin: const EdgeInsets.only(bottom: 0),
-
                             padding: const EdgeInsets.all(20),
                             decoration: BoxDecoration(
                               color: Colors.white.withOpacity(0.3),
